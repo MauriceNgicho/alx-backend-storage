@@ -1,2 +1,2 @@
-// list all document with name="ALX" in school collection
-db.school.find({name: "ALX"})
+// list all documents in school collection with name "ALX"
+db.school.find({ name: "ALX" })
